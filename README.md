@@ -11,7 +11,7 @@ Sou **Bruno Henrique**, tenho **24 anos** e sou de **São Paulo**. Sou bacharel 
             alt="Linkedin" 
             title="Linkedin" 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"
-            style="width: 30"
+            width="30"
         />
     </a>
     <a href="https://github.com/BrunoHenrique23/BrunoHenrique23/">
