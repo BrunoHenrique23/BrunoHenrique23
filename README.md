@@ -19,7 +19,7 @@ Sou **Bruno Henrique**, tenho **24 anos** e sou de **São Paulo**. Sou bacharel 
             alt="Github" 
             title="Github" 
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzEkaAN0BJ2o3ri2IsQRKXVk6ejQQqz0GUg&s"
-            style="width: 30"
+            width="30"
         />
     </a>
 </p>
