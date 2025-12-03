@@ -107,14 +107,14 @@ Sou **Bruno Henrique**, tenho **24 anos** e sou de **São Paulo**. Sou bacharel 
 ### 📊 Estatísticas
 ---
 <p>
-  <img 
+  <!-- <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     width = "500"
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BrunoHenrique23&show_icons=true&theme=tokyonight" 
-  />
+  /> -->
 
 <img 
       align="right" 
